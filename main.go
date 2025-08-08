@@ -9,7 +9,7 @@ import (
 
 func main() {
 	var buf bytes.Buffer
-	err := templates.Index().Render(context.Background(), &buf)
+	err := templates.Notifications{}.Index().Render(context.Background(), &buf)
 	if err != nil {
 		panic(err)
 	}

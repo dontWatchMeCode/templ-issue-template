@@ -8,7 +8,9 @@ package templates
 import "github.com/a-h/templ"
 import templruntime "github.com/a-h/templ/runtime"
 
-func Index() templ.Component {
+type Notifications struct{}
+
+func (Notifications) Index() templ.Component {
 	return templruntime.GeneratedTemplate(func(templ_7745c5c3_Input templruntime.GeneratedComponentInput) (templ_7745c5c3_Err error) {
 		templ_7745c5c3_W, ctx := templ_7745c5c3_Input.Writer, templ_7745c5c3_Input.Context
 		if templ_7745c5c3_CtxErr := ctx.Err(); templ_7745c5c3_CtxErr != nil {
@@ -29,12 +31,16 @@ func Index() templ.Component {
 			templ_7745c5c3_Var1 = templ.NopComponent
 		}
 		ctx = templ.ClearChildren(ctx)
-		templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 1, "<h1>Hello World</h1>")
+		templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 1, "<div class=\"grid grid-cols-12 grid-rows-[min-content] gap-y-12 p-4 lg:gap-x-12 lg:p-10 ajax-root\" hx-target=\".ajax-root\"><div class=\"col-span-12\"><!-- Notifications Header with Actions --><div class=\"flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between\"><div class=\"flex items-center gap-4\"><h2 class=\"text-xl font-semibold\">All Notifications</h2><div class=\"badge badge-primary badge-lg\">777 unread</div></div><div class=\"flex flex-wrap gap-2\"><!-- Filter Dropdown --><div class=\"dropdown dropdown-end\"><div tabindex=\"0\" role=\"button\" class=\"btn btn-outline btn-sm\"><svg data-src=\"/static/pkg/heroicons/20/solid/funnel.svg\" class=\"h-4 w-4\"></svg> Filter</div><ul tabindex=\"0\" class=\"dropdown-content menu z-[1] w-52 rounded-box bg-base-100 p-2 shadow\"><li><a class=\"active\">All</a></li><li><a>Unread only</a></li><li><a>Read only</a></li><li><div class=\"divider my-1\"></div></li><li><a>Info</a></li><li><a>Warning</a></li><li><a>Success</a></li><li><a>Error</a></li></ul></div><!-- Mark All as Read Button --><button class=\"btn btn-primary btn-sm\" hx-post=\"/_dashboard/notifications/mark-all-read\" hx-target=\".ajax-root\" hx-indicator=\"#htmx-loading-spinner\"><svg data-src=\"/static/pkg/heroicons/20/solid/check-double.svg\" class=\"h-4 w-4\"></svg> Mark all read</button></div></div><!-- Notifications List --><div class=\"mt-6 space-y-4\"></div><!-- Empty State (hidden by default) --><div class=\"hidden mt-12 text-center\"><div class=\"mx-auto w-24 h-24 text-base-300 mb-4\"><svg data-src=\"/static/pkg/heroicons/24/outline/bell.svg\" class=\"w-full h-full\"></svg></div><h3 class=\"text-lg font-medium text-base-content mb-2\">No notifications</h3><p class=\"text-base-content/70\">You're all caught up! Check back later for new updates.</p></div><!-- Load More Button --><div class=\"mt-8 text-center\"><button class=\"btn btn-outline btn-wide\">Load more notifications</button></div></div></div>")
 		if templ_7745c5c3_Err != nil {
 			return templ_7745c5c3_Err
 		}
 		return nil
 	})
+}
+
+func example() {
+	println("Hello World")
 }
 
 var _ = templruntime.GeneratedTemplate

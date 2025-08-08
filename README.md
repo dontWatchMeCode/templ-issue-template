@@ -13,15 +13,15 @@ A clear and concise description of what you expected to happen.
 
 struct example:
 
-<img src="./screenshots/struct_1.png" width="500">
+<img src="https://github.com/dontWatchMeCode/templ-issue-template/blob/struct-method-lps-issue/screenshots/struct_1.png?raw=true" width="500">
 
-<img src="./screenshots/struct_2.png" width="500">
+<img src="https://github.com/dontWatchMeCode/templ-issue-template/blob/struct-method-lps-issue/screenshots/struct_2.png?raw=true" width="500">
 
 function example:
 
-<img src="./screenshots/function_1.png" width="500">
+<img src="https://github.com/dontWatchMeCode/templ-issue-template/blob/struct-method-lps-issue/screenshots/function_1.png?raw=true" width="500">
 
-<img src="./screenshots/function_2.png" width="500">
+<img src="https://github.com/dontWatchMeCode/templ-issue-template/blob/struct-method-lps-issue/screenshots/function_2.png?raw=true" width="500">
 
 **Logs**
 

@@ -7,7 +7,7 @@ The lsp seems to break when using struct methods in templates.
 - [example .templ file](https://raw.githubusercontent.com/dontWatchMeCode/templ-issue-template/refs/heads/struct-method-lps-issue/templates/example.templ)
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+Same Syntax highlighting / lsp behavior as in a regular struct method.
 
 **Screenshots**
 

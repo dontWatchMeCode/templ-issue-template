@@ -43,3 +43,4 @@ function example:
 - templ CLI version v0.3.924
 - Go version go1.24.5
 - `gopls` version v0.20.0
+- VSCode version 1.102.3

@@ -1,3 +1,7 @@
+issue: <https://github.com/a-h/templ/issues/1239>
+
+---
+
 **Describe the bug**
 The lsp seems to break when using struct methods in templates.
 

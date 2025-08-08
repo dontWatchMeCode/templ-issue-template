@@ -1,8 +1,10 @@
 **Describe the bug**
-A clear and concise description of what the bug is.
+The lsp seems to break when using struct methods in templates.
 
 **To Reproduce**
-A small, self-contained, complete reproduction, uploaded to a GitHub repo, containing the minimum amount of files required to reproduce the behaviour, along with a list of commands that need to be run. Keep it simple.
+
+- [full example repo](https://github.com/dontWatchMeCode/templ-issue-template/tree/struct-method-lps-issue)
+- [example .templ file](https://raw.githubusercontent.com/dontWatchMeCode/templ-issue-template/refs/heads/struct-method-lps-issue/templates/example.templ)
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
@@ -10,15 +12,21 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 
 struct example:
+
 <img src="./screenshots/struct_1.png" width="500">
+
 <img src="./screenshots/struct_2.png" width="500">
 
 function example:
+
 <img src="./screenshots/function_1.png" width="500">
+
 <img src="./screenshots/function_2.png" width="500">
 
 **Logs**
-If the issue is related to IDE support, run through the LSP troubleshooting section at <https://templ.guide/developer-tools/ide-support/#troubleshooting-1> and include logs from templ
+
+- [gopls](https://github.com/dontWatchMeCode/templ-issue-template/blob/struct-method-lps-issue/logs/gopls.log)
+- [templ](https://github.com/dontWatchMeCode/templ-issue-template/blob/struct-method-lps-issue/logs/templ.log)
 
 **`templ info` output**
 
@@ -35,6 +43,3 @@ If the issue is related to IDE support, run through the LSP troubleshooting sect
 - templ CLI version v0.3.924
 - Go version go1.24.5
 - `gopls` version v0.20.0
-
-**Additional context**
-Add any other context about the problem here.

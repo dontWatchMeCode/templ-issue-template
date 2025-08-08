@@ -1,0 +1,204 @@
+{"time":"2025-08-08T16:25:31.776233756+02:00","level":"INFO","msg":"lsp: starting up..."}
+{"time":"2025-08-08T16:25:31.776371705+02:00","level":"INFO","msg":"lsp: starting gopls..."}
+{"time":"2025-08-08T16:25:31.776490774+02:00","level":"INFO","msg":"creating gopls client"}
+{"time":"2025-08-08T16:25:31.776527544+02:00","level":"INFO","msg":"creating proxy"}
+{"time":"2025-08-08T16:25:31.776536584+02:00","level":"INFO","msg":"creating templ server"}
+{"time":"2025-08-08T16:25:31.776544964+02:00","level":"INFO","msg":"listening"}
+{"time":"2025-08-08T16:25:31.778003894+02:00","level":"INFO","msg":"client -> server: Initialize"}
+{"time":"2025-08-08T16:25:31.824742227+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test"}
+{"time":"2025-08-08T16:25:31.824784136+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.air"}
+{"time":"2025-08-08T16:25:31.824795616+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.air/build-errors.log"}
+{"time":"2025-08-08T16:25:31.824807046+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.air/main"}
+{"time":"2025-08-08T16:25:31.824830586+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.bin"}
+{"time":"2025-08-08T16:25:31.824839936+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.bin/main"}
+{"time":"2025-08-08T16:25:31.824865306+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git"}
+{"time":"2025-08-08T16:25:31.824874006+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/COMMIT_EDITMSG"}
+{"time":"2025-08-08T16:25:31.824881156+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/FETCH_HEAD"}
+{"time":"2025-08-08T16:25:31.824888886+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/HEAD"}
+{"time":"2025-08-08T16:25:31.824896205+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/ORIG_HEAD"}
+{"time":"2025-08-08T16:25:31.824902945+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/config"}
+{"time":"2025-08-08T16:25:31.824910175+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/description"}
+{"time":"2025-08-08T16:25:31.824935505+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/hooks"}
+{"time":"2025-08-08T16:25:31.824944245+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/hooks/applypatch-msg.sample"}
+{"time":"2025-08-08T16:25:31.824951315+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/hooks/commit-msg.sample"}
+{"time":"2025-08-08T16:25:31.824958725+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/hooks/fsmonitor-watchman.sample"}
+{"time":"2025-08-08T16:25:31.824968955+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/hooks/post-update.sample"}
+{"time":"2025-08-08T16:25:31.824976505+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/hooks/pre-applypatch.sample"}
+{"time":"2025-08-08T16:25:31.824983445+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/hooks/pre-commit.sample"}
+{"time":"2025-08-08T16:25:31.824990335+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/hooks/pre-merge-commit.sample"}
+{"time":"2025-08-08T16:25:31.824997735+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/hooks/pre-push.sample"}
+{"time":"2025-08-08T16:25:31.825004665+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/hooks/pre-rebase.sample"}
+{"time":"2025-08-08T16:25:31.825011665+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/hooks/pre-receive.sample"}
+{"time":"2025-08-08T16:25:31.825024705+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/hooks/prepare-commit-msg.sample"}
+{"time":"2025-08-08T16:25:31.825035045+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/hooks/push-to-checkout.sample"}
+{"time":"2025-08-08T16:25:31.825042445+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/hooks/sendemail-validate.sample"}
+{"time":"2025-08-08T16:25:31.825049834+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/hooks/update.sample"}
+{"time":"2025-08-08T16:25:31.825056574+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/index"}
+{"time":"2025-08-08T16:25:31.825080374+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/info"}
+{"time":"2025-08-08T16:25:31.825089864+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/info/exclude"}
+{"time":"2025-08-08T16:25:31.825111584+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/logs"}
+{"time":"2025-08-08T16:25:31.825120444+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/logs/HEAD"}
+{"time":"2025-08-08T16:25:31.825140794+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/logs/refs"}
+{"time":"2025-08-08T16:25:31.825163044+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/logs/refs/heads"}
+{"time":"2025-08-08T16:25:31.825177244+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/logs/refs/heads/main"}
+{"time":"2025-08-08T16:25:31.825185064+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/logs/refs/heads/struct-method-lps-issue"}
+{"time":"2025-08-08T16:25:31.825209253+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/logs/refs/remotes"}
+{"time":"2025-08-08T16:25:31.825232263+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/logs/refs/remotes/origin"}
+{"time":"2025-08-08T16:25:31.825241243+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/logs/refs/remotes/origin/HEAD"}
+{"time":"2025-08-08T16:25:31.825248693+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/logs/refs/remotes/origin/main"}
+{"time":"2025-08-08T16:25:31.825285223+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects"}
+{"time":"2025-08-08T16:25:31.825309663+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/0b"}
+{"time":"2025-08-08T16:25:31.825318553+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/0b/d1631a857d462562c1b1292281401b97b8d2a3"}
+{"time":"2025-08-08T16:25:31.825339292+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/15"}
+{"time":"2025-08-08T16:25:31.825347762+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/15/7e470d32ecc1e756f3c9b46535ad52bed09584"}
+{"time":"2025-08-08T16:25:31.825370462+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/1b"}
+{"time":"2025-08-08T16:25:31.825378922+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/1b/7cd22b8d70abfb5c4b3fdb7c825f38018045a8"}
+{"time":"2025-08-08T16:25:31.825400322+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/21"}
+{"time":"2025-08-08T16:25:31.825409342+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/21/de696f294f5ec25fb2591124a77a677e4be15d"}
+{"time":"2025-08-08T16:25:31.825433812+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/22"}
+{"time":"2025-08-08T16:25:31.825444122+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/22/9e2ad4ef03136ea08a1994e05f35877c72aa39"}
+{"time":"2025-08-08T16:25:31.825464422+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/23"}
+{"time":"2025-08-08T16:25:31.825473252+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/23/4c0de12934bb639be1bfe377d6c0c473a7f54b"}
+{"time":"2025-08-08T16:25:31.825493411+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/24"}
+{"time":"2025-08-08T16:25:31.825502091+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/24/d22ac6d95828dbd79d9ed4dccdc5bb4e74fdd5"}
+{"time":"2025-08-08T16:25:31.825522531+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/27"}
+{"time":"2025-08-08T16:25:31.825531171+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/27/9409317cf2be6e699b393c6d961ce579598634"}
+{"time":"2025-08-08T16:25:31.825551851+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/35"}
+{"time":"2025-08-08T16:25:31.825560341+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/35/97eabdeffa01a4dcf675bac145bf1604b2e20e"}
+{"time":"2025-08-08T16:25:31.825580701+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/45"}
+{"time":"2025-08-08T16:25:31.825589711+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/45/f44810e89ac40403a323e9d0cc132ad4e57a99"}
+{"time":"2025-08-08T16:25:31.825609651+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/55"}
+{"time":"2025-08-08T16:25:31.825618121+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/55/daf0df57eab00a0140343cfd67efb678e32153"}
+{"time":"2025-08-08T16:25:31.82563846+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/56"}
+{"time":"2025-08-08T16:25:31.82564693+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/56/12bc8bdd0dc737b917dc4c1d4045f85b136b0e"}
+{"time":"2025-08-08T16:25:31.82565414+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/56/27a6b7961ee9b29ed72afccd2e181ab2a1cc28"}
+{"time":"2025-08-08T16:25:31.82567416+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/66"}
+{"time":"2025-08-08T16:25:31.82568262+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/66/0d465841051cf571d0e74821b5260986d30fbe"}
+{"time":"2025-08-08T16:25:31.82570331+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/77"}
+{"time":"2025-08-08T16:25:31.82571165+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/77/b680ba8cdf18db5d5be66137d42c3d9e34a920"}
+{"time":"2025-08-08T16:25:31.82574065+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/88"}
+{"time":"2025-08-08T16:25:31.82575016+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/88/a19860d91b2ef8a0f97bea4277d566cb23f5e7"}
+{"time":"2025-08-08T16:25:31.825776079+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/96"}
+{"time":"2025-08-08T16:25:31.825791159+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/96/2e708c0f31172a4b5b8d4a83ab11f121ed37d7"}
+{"time":"2025-08-08T16:25:31.825813539+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/a1"}
+{"time":"2025-08-08T16:25:31.825822749+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/a1/d3626547189a4d546b59a723c9a07bba0306c3"}
+{"time":"2025-08-08T16:25:31.825843689+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/a2"}
+{"time":"2025-08-08T16:25:31.825852109+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/a2/79a590832f8dbe407da47503481092e3932180"}
+{"time":"2025-08-08T16:25:31.825871759+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/ab"}
+{"time":"2025-08-08T16:25:31.825880229+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/ab/5d018483403300c09e40a5e3f5761aef5daaa8"}
+{"time":"2025-08-08T16:25:31.825900559+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/bc"}
+{"time":"2025-08-08T16:25:31.825908909+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/bc/37d435073fedbce51f3b3ad63b54f91e75ed25"}
+{"time":"2025-08-08T16:25:31.825928998+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/c3"}
+{"time":"2025-08-08T16:25:31.825937408+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/c3/a709a6da4103f11e121d23101c2254a7f59b0e"}
+{"time":"2025-08-08T16:25:31.825957488+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/c4"}
+{"time":"2025-08-08T16:25:31.825965758+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/c4/5decf3a674431268570c63b4efad684051f89a"}
+{"time":"2025-08-08T16:25:31.825985488+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/ca"}
+{"time":"2025-08-08T16:25:31.825994288+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/ca/1509aed7c69d3bfc080e155cc86b93ca81ed1d"}
+{"time":"2025-08-08T16:25:31.826014348+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/e5"}
+{"time":"2025-08-08T16:25:31.826022768+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/e5/d0b5e4ac45638a7d37d595c2de9a056d2d1326"}
+{"time":"2025-08-08T16:25:31.826043188+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/ef"}
+{"time":"2025-08-08T16:25:31.826051648+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/ef/b98088164f5786b17e83ed384971fc3c74f93c"}
+{"time":"2025-08-08T16:25:31.826071537+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/fc"}
+{"time":"2025-08-08T16:25:31.826080617+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/fc/a5ecc8280d766ce9d7017f99b46552fab1e801"}
+{"time":"2025-08-08T16:25:31.826100627+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/info"}
+{"time":"2025-08-08T16:25:31.826120897+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/objects/pack"}
+{"time":"2025-08-08T16:25:31.826142457+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/refs"}
+{"time":"2025-08-08T16:25:31.826163887+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/refs/heads"}
+{"time":"2025-08-08T16:25:31.826172427+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/refs/heads/main"}
+{"time":"2025-08-08T16:25:31.826185767+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/refs/heads/struct-method-lps-issue"}
+{"time":"2025-08-08T16:25:31.826210446+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/refs/remotes"}
+{"time":"2025-08-08T16:25:31.826232646+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/refs/remotes/origin"}
+{"time":"2025-08-08T16:25:31.826241346+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/refs/remotes/origin/HEAD"}
+{"time":"2025-08-08T16:25:31.826248596+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/refs/remotes/origin/main"}
+{"time":"2025-08-08T16:25:31.826274506+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.git/refs/tags"}
+{"time":"2025-08-08T16:25:31.826283706+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/.gitignore"}
+{"time":"2025-08-08T16:25:31.826291006+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/LICENSE"}
+{"time":"2025-08-08T16:25:31.826298286+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/README.md"}
+{"time":"2025-08-08T16:25:31.826305396+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/air.toml"}
+{"time":"2025-08-08T16:25:31.826312116+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/go.mod"}
+{"time":"2025-08-08T16:25:31.826324016+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/go.sum"}
+{"time":"2025-08-08T16:25:31.826345046+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/logs"}
+{"time":"2025-08-08T16:25:31.826357765+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/mage.go"}
+{"time":"2025-08-08T16:25:31.826365035+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/main.go"}
+{"time":"2025-08-08T16:25:31.826386405+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/templates"}
+{"time":"2025-08-08T16:25:31.826394905+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/templates/example.templ"}
+{"time":"2025-08-08T16:25:31.826987271+02:00","level":"INFO","msg":"setting source map cache contents","uri":"file:///home/me/Projects/templ-lsp-struct-test/templates/example.templ"}
+{"time":"2025-08-08T16:25:31.827003851+02:00","level":"INFO","msg":"found file","path":"/home/me/Projects/templ-lsp-struct-test/templates/example_templ.go"}
+{"time":"2025-08-08T16:25:31.827010191+02:00","level":"INFO","msg":"client -> server: Initialize end"}
+{"time":"2025-08-08T16:25:31.828344682+02:00","level":"INFO","msg":"client -> server: Initialized"}
+{"time":"2025-08-08T16:25:31.828448071+02:00","level":"INFO","msg":"client -> server: Initialized end"}
+{"time":"2025-08-08T16:25:31.828739459+02:00","level":"INFO","msg":"client <- server: WorkDoneProgressCreate"}
+{"time":"2025-08-08T16:25:31.83311109+02:00","level":"INFO","msg":"client -> server: DidOpen","uri":"file:///home/me/Projects/templ-lsp-struct-test/templates/example.templ"}
+{"time":"2025-08-08T16:25:31.833819505+02:00","level":"INFO","msg":"client <- server: Progress"}
+{"time":"2025-08-08T16:25:31.833847175+02:00","level":"INFO","msg":"setting source map cache contents","uri":"file:///home/me/Projects/templ-lsp-struct-test/templates/example.templ"}
+{"time":"2025-08-08T16:25:31.833959354+02:00","level":"INFO","msg":"client <- server: Configuration"}
+{"time":"2025-08-08T16:25:31.834001284+02:00","level":"INFO","msg":"client -> server: DidOpen end"}
+{"time":"2025-08-08T16:25:31.84483266+02:00","level":"INFO","msg":"client <- server: LogMessage","message":"2025/08/08 16:25:31 Created View (#1)\n\tdirectory=/home/me/Projects/templ-lsp-struct-test\n\tview_type=\"GoMod\"\n\troot_dir=\"file:///home/me/Projects/templ-lsp-struct-test\"\n\tgo_version=\"go version go1.24.5 linux/amd64\"\n\tbuild_flags=[]\n\tenv={GOOS:linux GOARCH:amd64 GOCACHE:/home/me/.cache/go-build GOMODCACHE:/home/me/go/pkg/mod GOPATH:/home/me/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:local GOROOT:/usr/lib/golang GoVersion:24 GoVersionOutput:go version go1.24.5 linux/amd64\n ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}\n\tenv_overlay=[]\n"}
+{"time":"2025-08-08T16:25:31.860332025+02:00","level":"INFO","msg":"client -> server: CodeAction","params":{"textDocument":{"uri":"file:///home/me/Projects/templ-lsp-struct-test/templates/example.templ"},"context":{"diagnostics":[]},"range":{"start":{"line":23,"character":13},"end":{"line":23,"character":13}}}}
+{"time":"2025-08-08T16:25:31.860395695+02:00","level":"INFO","msg":"client -> server: CodeAction end"}
+{"time":"2025-08-08T16:25:31.863811641+02:00","level":"INFO","msg":"client -> server: DocumentLink","uri":"file:///home/me/Projects/templ-lsp-struct-test/templates/example.templ"}
+{"time":"2025-08-08T16:25:31.863841991+02:00","level":"INFO","msg":"client -> server: DocumentLink end"}
+{"time":"2025-08-08T16:25:31.910022288+02:00","level":"INFO","msg":"client <- server: LogMessage","message":"2025/08/08 16:25:31 go/packages.Load #1\n\tview_id=\"1\"\n\tsnapshot=0\n\tdirectory=/home/me/Projects/templ-lsp-struct-test\n\tquery=[/home/me/Projects/templ-lsp-struct-test/... builtin]\n\tpackages=3\n\tduration=64.889359ms\n"}
+{"time":"2025-08-08T16:25:31.925620312+02:00","level":"INFO","msg":"client -> server: SetTrace"}
+{"time":"2025-08-08T16:25:31.925674741+02:00","level":"INFO","msg":"client -> server: SetTrace end"}
+{"time":"2025-08-08T16:25:31.92739312+02:00","level":"INFO","msg":"client <- server: Progress"}
+{"time":"2025-08-08T16:25:31.927655568+02:00","level":"INFO","msg":"client <- server: RegisterCapability"}
+{"time":"2025-08-08T16:25:31.929394466+02:00","level":"INFO","msg":"client <- server: RegisterCapability"}
+{"time":"2025-08-08T16:25:31.952646308+02:00","level":"INFO","msg":"client <- server: PublishDiagnostics"}
+{"time":"2025-08-08T16:25:32.363530729+02:00","level":"INFO","msg":"client -> server: CodeLens"}
+{"time":"2025-08-08T16:25:32.363986216+02:00","level":"INFO","msg":"client -> server: CodeLens end"}
+{"time":"2025-08-08T16:25:32.364060655+02:00","level":"INFO","msg":"client -> server: SetTrace"}
+{"time":"2025-08-08T16:25:32.364081885+02:00","level":"INFO","msg":"client -> server: SetTrace end"}
+{"time":"2025-08-08T16:25:32.39144692+02:00","level":"INFO","msg":"client -> server: DidChangeConfiguration"}
+{"time":"2025-08-08T16:25:32.391539499+02:00","level":"INFO","msg":"client -> server: DidChangeConfiguration end"}
+{"time":"2025-08-08T16:25:32.391880367+02:00","level":"INFO","msg":"client <- server: Configuration"}
+{"time":"2025-08-08T16:25:32.626003147+02:00","level":"INFO","msg":"client <- server: Configuration"}
+{"time":"2025-08-08T16:25:32.626863671+02:00","level":"INFO","msg":"client -> server: CodeAction","params":{"textDocument":{"uri":"file:///home/me/Projects/templ-lsp-struct-test/templates/example.templ"},"context":{"diagnostics":[]},"range":{"start":{"line":23,"character":13},"end":{"line":23,"character":13}}}}
+{"time":"2025-08-08T16:25:32.626882591+02:00","level":"INFO","msg":"client -> server: CodeAction end"}
+{"time":"2025-08-08T16:25:32.626914111+02:00","level":"INFO","msg":"client -> server: DocumentLink","uri":"file:///home/me/Projects/templ-lsp-struct-test/templates/example.templ"}
+{"time":"2025-08-08T16:25:32.626923111+02:00","level":"INFO","msg":"client -> server: DocumentLink end"}
+{"time":"2025-08-08T16:25:32.626954971+02:00","level":"INFO","msg":"client -> server: DocumentLink","uri":"file:///home/me/Projects/templ-lsp-struct-test/templates/example.templ"}
+{"time":"2025-08-08T16:25:32.626961651+02:00","level":"INFO","msg":"client -> server: DocumentLink end"}
+{"time":"2025-08-08T16:25:32.719107775+02:00","level":"INFO","msg":"client -> server: SetTrace"}
+{"time":"2025-08-08T16:25:32.719168545+02:00","level":"INFO","msg":"client -> server: SetTrace end"}
+{"time":"2025-08-08T16:25:32.737151113+02:00","level":"INFO","msg":"client -> server: DidChangeConfiguration"}
+{"time":"2025-08-08T16:25:32.737200962+02:00","level":"INFO","msg":"client -> server: DidChangeConfiguration end"}
+{"time":"2025-08-08T16:25:32.73754117+02:00","level":"INFO","msg":"client <- server: Configuration"}
+{"time":"2025-08-08T16:25:32.763087697+02:00","level":"INFO","msg":"client -> server: CodeAction","params":{"textDocument":{"uri":"file:///home/me/Projects/templ-lsp-struct-test/templates/example.templ"},"context":{"diagnostics":[]},"range":{"start":{"line":23,"character":13},"end":{"line":23,"character":13}}}}
+{"time":"2025-08-08T16:25:32.763120586+02:00","level":"INFO","msg":"client -> server: CodeAction end"}
+{"time":"2025-08-08T16:25:32.781393882+02:00","level":"INFO","msg":"client <- server: Configuration"}
+{"time":"2025-08-08T16:25:32.848099739+02:00","level":"INFO","msg":"client -> server: CodeAction","params":{"textDocument":{"uri":"file:///home/me/Projects/templ-lsp-struct-test/templates/example.templ"},"context":{"diagnostics":[]},"range":{"start":{"line":23,"character":13},"end":{"line":23,"character":13}}}}
+{"time":"2025-08-08T16:25:32.848136189+02:00","level":"INFO","msg":"client -> server: CodeAction end"}
+{"time":"2025-08-08T16:25:32.848203099+02:00","level":"INFO","msg":"client -> server: CodeAction","params":{"textDocument":{"uri":"file:///home/me/Projects/templ-lsp-struct-test/templates/example.templ"},"context":{"diagnostics":[]},"range":{"start":{"line":23,"character":13},"end":{"line":23,"character":13}}}}
+{"time":"2025-08-08T16:25:32.848217749+02:00","level":"INFO","msg":"client -> server: CodeAction end"}
+{"time":"2025-08-08T16:25:32.848259438+02:00","level":"INFO","msg":"client -> server: DocumentLink","uri":"file:///home/me/Projects/templ-lsp-struct-test/templates/example.templ"}
+{"time":"2025-08-08T16:25:32.848283308+02:00","level":"INFO","msg":"client -> server: DocumentLink end"}
+{"time":"2025-08-08T16:25:32.879464647+02:00","level":"INFO","msg":"client -> server: SetTrace"}
+{"time":"2025-08-08T16:25:32.879527856+02:00","level":"INFO","msg":"client -> server: SetTrace end"}
+{"time":"2025-08-08T16:25:32.879911013+02:00","level":"INFO","msg":"client -> server: DidChangeConfiguration"}
+{"time":"2025-08-08T16:25:32.879935513+02:00","level":"INFO","msg":"client -> server: DidChangeConfiguration end"}
+{"time":"2025-08-08T16:25:32.880189082+02:00","level":"INFO","msg":"client <- server: Configuration"}
+{"time":"2025-08-08T16:25:32.882199508+02:00","level":"INFO","msg":"client <- server: Configuration"}
+{"time":"2025-08-08T16:25:33.041149079+02:00","level":"INFO","msg":"client -> server: CodeAction","params":{"textDocument":{"uri":"file:///home/me/Projects/templ-lsp-struct-test/templates/example.templ"},"context":{"diagnostics":[]},"range":{"start":{"line":23,"character":13},"end":{"line":23,"character":13}}}}
+{"time":"2025-08-08T16:25:33.041194659+02:00","level":"INFO","msg":"client -> server: CodeAction end"}
+{"time":"2025-08-08T16:25:34.344585251+02:00","level":"INFO","msg":"client -> server: DocumentSymbol"}
+{"time":"2025-08-08T16:25:34.345229566+02:00","level":"WARN","msg":"go->templ: symbol range not found","symbol":{"name":"Notifications","detail":"struct{}","kind":23,"range":{"start":{"line":9,"character":5},"end":{"line":9,"character":27}},"selectionRange":{"start":{"line":9,"character":5},"end":{"line":9,"character":18}}},"choices":{"11":{"0":{"From":{"Index":48,"Line":4,"Col":0},"To":{"Index":2308,"Line":66,"Col":1}}},"39":{"0":{"From":{"Index":2310,"Line":68,"Col":0},"To":{"Index":2353,"Line":71,"Col":0}}},"9":{"0":{"From":{"Index":19,"Line":2,"Col":0},"To":{"Index":48,"Line":4,"Col":0}}}}}
+{"time":"2025-08-08T16:25:34.345303526+02:00","level":"INFO","msg":"client -> server: DocumentSymbol end"}
+{"time":"2025-08-08T16:25:34.345380065+02:00","level":"INFO","msg":"client -> server: CodeLens"}
+{"time":"2025-08-08T16:25:34.345573854+02:00","level":"INFO","msg":"client -> server: CodeLens end"}
+{"time":"2025-08-08T16:25:34.408677616+02:00","level":"INFO","msg":"client -> server: CodeLens"}
+{"time":"2025-08-08T16:25:34.409256682+02:00","level":"INFO","msg":"client -> server: CodeLens end"}
+{"time":"2025-08-08T16:25:34.409351891+02:00","level":"INFO","msg":"client -> server: CodeAction","params":{"textDocument":{"uri":"file:///home/me/Projects/templ-lsp-struct-test/templates/example.templ"},"context":{"diagnostics":[]},"range":{"start":{"line":23,"character":13},"end":{"line":23,"character":13}}}}
+{"time":"2025-08-08T16:25:34.409375761+02:00","level":"INFO","msg":"client -> server: CodeAction end"}
+{"time":"2025-08-08T16:25:34.459043374+02:00","level":"INFO","msg":"client -> server: CodeAction","params":{"textDocument":{"uri":"file:///home/me/Projects/templ-lsp-struct-test/templates/example.templ"},"context":{"diagnostics":[]},"range":{"start":{"line":23,"character":13},"end":{"line":23,"character":13}}}}
+{"time":"2025-08-08T16:25:34.459086003+02:00","level":"INFO","msg":"client -> server: CodeAction end"}
+{"time":"2025-08-08T16:25:34.459131433+02:00","level":"INFO","msg":"client -> server: CodeAction","params":{"textDocument":{"uri":"file:///home/me/Projects/templ-lsp-struct-test/templates/example.templ"},"context":{"diagnostics":[]},"range":{"start":{"line":23,"character":13},"end":{"line":23,"character":13}}}}
+{"time":"2025-08-08T16:25:34.459145573+02:00","level":"INFO","msg":"client -> server: CodeAction end"}
+{"time":"2025-08-08T16:25:34.52734421+02:00","level":"INFO","msg":"client -> server: CodeAction","params":{"textDocument":{"uri":"file:///home/me/Projects/templ-lsp-struct-test/templates/example.templ"},"context":{"diagnostics":[]},"range":{"start":{"line":23,"character":13},"end":{"line":23,"character":13}}}}
+{"time":"2025-08-08T16:25:34.52738175+02:00","level":"INFO","msg":"client -> server: CodeAction end"}
+{"time":"2025-08-08T16:25:34.558745707+02:00","level":"INFO","msg":"client -> server: CodeAction","params":{"textDocument":{"uri":"file:///home/me/Projects/templ-lsp-struct-test/templates/example.templ"},"context":{"diagnostics":[]},"range":{"start":{"line":23,"character":13},"end":{"line":23,"character":13}}}}
+{"time":"2025-08-08T16:25:34.558783677+02:00","level":"INFO","msg":"client -> server: CodeAction end"}
+{"time":"2025-08-08T16:25:35.077113978+02:00","level":"INFO","msg":"client -> server: CodeAction","params":{"textDocument":{"uri":"file:///home/me/Projects/templ-lsp-struct-test/templates/example.templ"},"context":{"diagnostics":[]},"range":{"start":{"line":23,"character":13},"end":{"line":23,"character":13}}}}
+{"time":"2025-08-08T16:25:35.077151308+02:00","level":"INFO","msg":"client -> server: CodeAction end"}
+{"time":"2025-08-08T16:26:01.857497481+02:00","level":"INFO","msg":"client <- server: LogMessage","message":"2025/08/08 16:26:01 background imports cache refresh starting\n"}
+{"time":"2025-08-08T16:26:01.887518667+02:00","level":"INFO","msg":"client <- server: LogMessage","message":"2025/08/08 16:26:01 background refresh finished after 41.863155ms\n"}
